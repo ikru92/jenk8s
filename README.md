@@ -6,7 +6,7 @@
 Jenkins Master as a container 
 -----------------------------
 
-Jenkins Agent as a contianer
+Jenkins Agent as a container
 ----------------------------
 
 Setting up Github Webhook
