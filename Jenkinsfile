@@ -2,9 +2,9 @@ pipeline {
     agent any
    
     stages {
-        stage("init") {
+        stage("cloning") {
             steps {
-                echo "initalizing"
+                echo "cloning"
             }
         }
         stage("build") {
