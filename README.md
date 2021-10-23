@@ -1,11 +1,13 @@
 # Jenk8s 
-Master Jenkins 
-----------------
-Installing docker
 
+## Installing docker
+## Install Kubernetes
 
-Go lang slave
-----------------
+Jenkins Master as a container 
+-----------------------------
 
-Github Webhook
-----------------
+Jenkins Agent as a contianer
+----------------------------
+
+Setting up Github Webhook
+---------------------------
